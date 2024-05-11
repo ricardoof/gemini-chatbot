@@ -4,4 +4,4 @@ Como usar:
 
 1 - Executar cada bloco de código clicando no botão a esquerda.
 
-2 - No bloco com input, digite sua pergunta. Para finalizar digite fim.
+2 - No bloco com input responda as perguntas.
