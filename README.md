@@ -1,4 +1,4 @@
-Chatbot em python criado a API Gemini do Google na imersão IA da Alura.
+Chatbot em python criado a API Gemini do Google na imersão IA da Alura que recomenda jogos pelo gênero e duração.
 
 Como usar:
 
