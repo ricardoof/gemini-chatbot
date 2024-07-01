@@ -8,7 +8,7 @@ Este projeto foi criado na imersão IA da Alura.
 - Consome a API Gemini da Google
 - Recomenda jogos baseados em gênero e duração
 
-## Como usar:
+## Como usar
 1 - Executar cada bloco de código clicando no botão a esquerda.  
 2 - No bloco com input responda as perguntas.
 
